@@ -1,2 +1,3 @@
 # least_squares
-This code uses the least_squares function to adjust a specific function with some free parameters to a set of fiducial data from another function
+This code was mainly designed to fit a parametrization function of the luminosity distance of gravitational waves with a data function
+
